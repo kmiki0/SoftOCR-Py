@@ -6,7 +6,7 @@
 
 ## 実行環境　手順メモ
 1. `pip install pyqt5 pyautogui pytesseract` 
-    - pytesseract : OCR
+    - pyqt5 : GUI
     - pyautogui : 画面キャプチャ
     - pytesseract : OCR 
 2. https://github.com/tesseract-ocr/tesseract から tesseract インストール
